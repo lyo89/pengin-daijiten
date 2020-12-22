@@ -4,4 +4,4 @@
 <https://lyo89.github.io/pengin-daijiten/>
 
 # 技術  
-html/css/javascript
+html/css/javascript/jquery 
