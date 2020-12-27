@@ -197,35 +197,20 @@ footer p{
     top: 20px;
     width: 300px;
   }
-
   .pc-menu{
     display: block;
-<<<<<<< HEAD
     position: relative;
     right: 40px;
-
-=======
->>>>>>> 424cc0c5fc8ab765e647cac4b2a51beb6df81e2e
   }
 
   .pc-menu ul{
     display: flex;
-<<<<<<< HEAD
-    
-    
-=======
-   
->>>>>>> 424cc0c5fc8ab765e647cac4b2a51beb6df81e2e
   }
 
   .pc-menu a{
     display: block;
     color: #000000;
-<<<<<<< HEAD
     width: 225px;
-=======
-    width: 210px;
->>>>>>> 424cc0c5fc8ab765e647cac4b2a51beb6df81e2e
     margin-left: auto;
     margin-right: auto;
     line-height: 50px;
@@ -270,14 +255,8 @@ footer p{
     right: 100px;
     bottom: 50px;
   }
-  
+
   #backTop a{
     color: #000000;
   }
-  
-
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 424cc0c5fc8ab765e647cac4b2a51beb6df81e2e
